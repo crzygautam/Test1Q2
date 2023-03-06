@@ -1,0 +1,11 @@
+ table{
+    width:80%;
+    height: 200px;
+}  
+table, th ,td {
+    border: 2px solid rgb(193, 69, 69);
+    border-collapse: collapse;
+    background-color: rgb(46, 37, 173);
+    text-align: center;
+   
+}
